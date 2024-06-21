@@ -14,7 +14,7 @@ class Window(QMainWindow):
 		super().__init__()
 
 		# setting title
-		self.setWindowTitle("Saurabh Neerat'Calculator ")
+		self.setWindowTitle("Simple Calculator ")
 
 		# setting geometry
 		self.setGeometry(100, 100, 360, 350)
